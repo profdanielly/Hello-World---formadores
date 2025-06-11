@@ -4,5 +4,10 @@ body{
 }
 
 h2{
-    color:orange;
+    color: orange;
 }
+
+.texto-ingles{
+    font-style: italic;
+}
+
